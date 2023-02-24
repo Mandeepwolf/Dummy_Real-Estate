@@ -1,6 +1,6 @@
 # Dummy_Real-Estate
 <p> A dummy of real estate website made for the WEB codeplay Event Chandigarh University </p><br>
-<p><b>LINK :-</b></p> 
+<p><b>LINK :-</b>https://mandeepwolf.github.io/Dummy_Real-Estate/</p> 
 <hr>
 <h2>Problem domain for the event- REAL ESTATE</h2>
 <ul>
